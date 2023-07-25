@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\bin\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.exe
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\bin\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.deps.json
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\bin\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.runtimeconfig.json
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\bin\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\bin\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.dll
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\bin\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.pdb
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\obj\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\obj\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\obj\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\obj\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\obj\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\obj\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.dll
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\obj\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.pdb
+C:\Users\DELL\source\repos\DataStructure11\LinkedListDeleteOpration\obj\Debug\netcoreapp3.1\LinkedListInsertDeleteOpration.genruntimeconfig.cache
